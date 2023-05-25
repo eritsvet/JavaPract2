@@ -1,0 +1,4 @@
+Address text = St.Petersburg, zip code = cdhjg67fh87ndhu, building id = 2
+Address text = Kazan, zip code = cdhjg67fh87ndhu, building id = 3
+Address text = Krasnodar, zip code = 14fcewni3487fc, building id = null
+Address text = Kazan, zip code = jcidc783fhw3df, building id = 3
