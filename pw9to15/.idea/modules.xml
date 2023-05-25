@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaPractices.iml" filepath="$PROJECT_DIR$/.idea/JavaPractices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pw10.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pw10.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pw11.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pw11.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pw14.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pw14.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pw15.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pw15.main.iml" />
+    </modules>
+  </component>
+</project>

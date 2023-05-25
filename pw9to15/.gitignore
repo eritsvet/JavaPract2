@@ -1,0 +1,4 @@
+# Project exclude paths
+/pw9/.gradle/
+/pw9/build/
+/pw9/build/classes/java/main/
